@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "forca.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "_seek_set.h": "c",
+        "__bit_reference": "c",
+        "bitset": "c",
+        "pacman.h": "c"
+    }
+}
